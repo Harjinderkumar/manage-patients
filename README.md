@@ -5,7 +5,7 @@
   Admin can view, edit and delete patients from Admin view. He can records sort from table sorting and filter record by Patient Name.
 
 
-#    Installion Process
+#    Installation Process
 
   - Clone the Repository.
   - Create New Database with name ``ClinicProject``.
